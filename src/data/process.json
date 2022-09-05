@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "data_disponibilizacao": "2022-09-03",
+      "siglaTribunal": "TJSP",
+      "comunicacao": "Suspensão do Prazo referente ao usuário foi alterado para 03/09/2022 devido à alteração da tabela de feriados.",
+      "created_at": "2020-10-29 21:33:19",
+      "updated_at": "2020-10-29 21:33:19",
+      "nomeOrgao": "1a C\u00e2mara C\u00edvel",
+      "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur est id est fringilla, eget interdum nisi semper. Integer quis quam eu quam condimentum molestie quis non metus. In porttitor tortor lacinia libero posuere, ac vestibulum lectus suscipit. Sed facilisis nulla et euismod posuere. Praesent ac dui scelerisque, dapibus metus id, tincidunt mi. Mauris vel vestibulum neque. Donec leo mi, fermentum in mauris sit amet, euismod pellentesque justo. Phasellus elementum, tellus vitae finibus venenatis, velit mauris auctor dui, sit amet dignissim sem mauris non neque. Duis accumsan augue porta aliquet sollicitudin. Donec sem nisl, elementum sit amet magna eu, placerat pretium arcu. Donec orci mi, iaculis sit amet sapien vitae, tempus faucibus magna. Morbi quis blandit tellus, eget sollicitudin enim. Nullam eget consectetur turpis. Maecenas ut diam non urna tristique cursus. Aliquam erat volutpat. Phasellus ac pulvinar nisl, eget maximus nisl.",
+      "numero_processo": "00204769620108160031",
+      "detalhe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "http://localhost:8080/teste",
+      "tipoDocumento": "Resenha de distribui\u00e7\u00e3o",
+      "nomeClasse": "Peti\u00e7\u00e3o Criminal",
+      "codigoClasse": "1727",
+      "numeroComunicacao": 1,
+      "ativo": true,
+      "hash": "Jwx71ANK4Y21cehAT91W4zZrzBL3WE",
+      "datadisponibilizacao": "01/01/2021",
+      "meiocompleto": "Di\u00e1rio Eletr\u00f4nico de Justi\u00e7a Nacional",
+      "numeroprocessocommascara": "0020476-96.2010.8.16.0031",
+      "destinatarios": "Thiago Menegalho",
+      "destinatarioadvogados": [
+        {
+          "id": 301,
+          "comunicacao_id": 498,
+          "advogado_id": 116,
+          "advogado": {
+            "id": 116,
+            "nome": "PRISCILA GOMES",
+            "numero_oab": "441054",
+            "uf_oab": "SP"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "data_disponibilizacao": "2021-01-01",
+      "siglaTribunal": "TJSP",
+      "comunicacao": "Suspensão do Prazo referente ao usuário foi alterado para 03/09/2022 devido à alteração da tabela de feriados.",
+      "created_at": "2020-10-29 21:33:19",
+      "updated_at": "2020-10-29 21:33:19",
+      "nomeOrgao": "Capital 21 Vara Criminal",
+      "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur est id est fringilla, eget interdum nisi semper. Integer quis quam eu quam condimentum molestie quis non metus. In porttitor tortor lacinia libero posuere, ac vestibulum lectus suscipit. Sed facilisis nulla et euismod posuere. Praesent ac dui scelerisque, dapibus metus id, tincidunt mi. Mauris vel vestibulum neque. Donec leo mi, fermentum in mauris sit amet, euismod pellentesque justo. Phasellus elementum, tellus vitae finibus venenatis, velit mauris auctor dui, sit amet dignissim sem mauris non neque. Duis accumsan augue porta aliquet sollicitudin. Donec sem nisl, elementum sit amet magna eu, placerat pretium arcu. Donec orci mi, iaculis sit amet sapien vitae, tempus faucibus magna. Morbi quis blandit tellus, eget sollicitudin enim. Nullam eget consectetur turpis. Maecenas ut diam non urna tristique cursus. Aliquam erat volutpat. Phasellus ac pulvinar nisl, eget maximus nisl.",
+      "numero_processo": "01801458220198190001",
+      "detalhe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "https://portaltj.tjsp.jus.br",
+      "tipoDocumento": "Decis\u00e3o",
+      "nomeClasse": "A\u00e7\u00e3o Penal de Compet\u00eancia do J\u00fari",
+      "codigoClasse": "282",
+      "numeroComunicacao": 1,
+      "ativo": true,
+      "hash": "bQJDEM7aXZ8QfLhrTVzxrmYoWe2dLw",
+      "datadisponibilizacao": "01/01/2021",
+      "meiocompleto": "Di\u00e1rio Eletr\u00f4nico de Justi\u00e7a Nacional",
+      "numeroprocessocommascara": "0180145-82.2019.8.19.0001",
+      "destinatarios": "RENATA CHAVES",
+      "destinatarioadvogados": [
+        {
+          "id": 166272,
+          "comunicacao_id": 217814,
+          "advogado_id": 62939,
+          "created_at": "2020-12-17 19:53:05",
+          "updated_at": "2020-12-17 19:53:05",
+          "advogado": {
+            "id": 62939,
+            "nome": "MILTON RICARDO LUSO CALADO",
+            "numero_oab": "5108",
+            "uf_oab": "SP"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "data_disponibilizacao": "2021-01-01",
+      "siglaTribunal": "TJMA",
+      "comunicacao": "Suspensão do Prazo referente ao usuário foi alterado para 03/09/2022 devido à alteração da tabela de feriados.",
+      "created_at": "2020-10-29 21:33:19",
+      "updated_at": "2020-10-29 21:33:19",
+      "nomeOrgao": "80",
+      "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur est id est fringilla, eget interdum nisi semper. Integer quis quam eu quam condimentum molestie quis non metus. In porttitor tortor lacinia libero posuere, ac vestibulum lectus suscipit. Sed facilisis nulla et euismod posuere. Praesent ac dui scelerisque, dapibus metus id, tincidunt mi. Mauris vel vestibulum neque. Donec leo mi, fermentum in mauris sit amet, euismod pellentesque justo. Phasellus elementum, tellus vitae finibus venenatis, velit mauris auctor dui, sit amet dignissim sem mauris non neque. Duis accumsan augue porta aliquet sollicitudin. Donec sem nisl, elementum sit amet magna eu, placerat pretium arcu. Donec orci mi, iaculis sit amet sapien vitae, tempus faucibus magna. Morbi quis blandit tellus, eget sollicitudin enim. Nullam eget consectetur turpis. Maecenas ut diam non urna tristique cursus. Aliquam erat volutpat. Phasellus ac pulvinar nisl, eget maximus nisl.",
+      "numero_processo": "00298430820108100001",
+      "detalhe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "http://www.tjma.jus.br",
+      "tipoDocumento": "515",
+      "nomeClasse": "Embargos de Declara\u00e7\u00e3o C\u00edvel",
+      "codigoClasse": "1689",
+      "numeroComunicacao": 1,
+      "ativo": true,
+      "hash": "z7e9MjpmE6nmTGhlTlPGzjRqrnD41B",
+      "datadisponibilizacao": "01/01/2021",
+      "meiocompleto": "Di\u00e1rio Eletr\u00f4nico de Justi\u00e7a Nacional",
+      "numeroprocessocommascara": "0029843-08.2010.8.10.0001",
+      "destinatarios": "PAULO ROBERTO DA SILVA COSTA, EMBARGADO:BANCO DO BRASIL S/A",
+      "destinatarioadvogados": [
+        {
+          "id": 166274,
+          "comunicacao_id": 217814,
+          "advogado_id": 536,
+          "created_at": "2020-12-17 19:53:05",
+          "updated_at": "2020-12-17 19:53:05",
+          "advogado": {
+            "id": 536,
+            "nome": "ANDRE DE ALMEIDA RODRIGUES",
+            "numero_oab": "164322",
+            "uf_oab": "SP"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "data_disponibilizacao": "2021-01-01",
+      "siglaTribunal": "TJPE",
+      "comunicacao": "Suspensão do Prazo referente ao usuário foi alterado para 03/09/2022 devido à alteração da tabela de feriados.",
+      "created_at": "2020-10-29 21:33:19",
+      "updated_at": "2020-10-29 21:33:19",
+      "nomeOrgao": "4\u00aa Vara Regional de Execu\u00e7\u00e3o Penal",
+      "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur est id est fringilla, eget interdum nisi semper. Integer quis quam eu quam condimentum molestie quis non metus. In porttitor tortor lacinia libero posuere, ac vestibulum lectus suscipit. Sed facilisis nulla et euismod posuere. Praesent ac dui scelerisque, dapibus metus id, tincidunt mi. Mauris vel vestibulum neque. Donec leo mi, fermentum in mauris sit amet, euismod pellentesque justo. Phasellus elementum, tellus vitae finibus venenatis, velit mauris auctor dui, sit amet dignissim sem mauris non neque. Duis accumsan augue porta aliquet sollicitudin. Donec sem nisl, elementum sit amet magna eu, placerat pretium arcu. Donec orci mi, iaculis sit amet sapien vitae, tempus faucibus magna. Morbi quis blandit tellus, eget sollicitudin enim. Nullam eget consectetur turpis. Maecenas ut diam non urna tristique cursus. Aliquam erat volutpat. Phasellus ac pulvinar nisl, eget maximus nisl.a",
+      "numero_processo": "00040356520138171370",
+      "detalhe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": null,
+      "tipoDocumento": "Ac\u00f3rd\u00e3o",
+      "nomeClasse": "Procedimento Comum C\u00edvel",
+      "codigoClasse": "7",
+      "numeroComunicacao": 1,
+      "ativo": true,
+      "hash": "2on1OxBm76EEHlhKhpd1oP63revpEj",
+      "datadisponibilizacao": "01/01/2021",
+      "meiocompleto": "Plataforma Nacional de Editais",
+      "numeroprocessocommascara": "0004035-65.2013.8.17.1370",
+      "destinatarios": "PAULO ROBERTO DA SILVA MONTEIRO",
+      "destinatarioadvogados": [
+        {
+          "id": 166273,
+          "comunicacao_id": 217814,
+          "advogado_id": 62940,
+          "created_at": "2020-12-17 19:53:05",
+          "updated_at": "2020-12-17 19:53:05",
+          "advogado": {
+            "id": 62940,
+            "nome": "RAFAEL SGANZERLA DURAND",
+            "numero_oab": "3594",
+            "uf_oab": "PE"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "data_disponibilizacao": "2021-01-01",
+      "siglaTribunal": "TJSP",
+      "comunicacao": "Suspensão do Prazo referente ao usuário foi alterado para 03/09/2022 devido à alteração da tabela de feriados.",
+      "created_at": "2020-10-29 21:33:19",
+      "updated_at": "2020-10-29 21:33:19",
+      "nomeOrgao": "COMARCA DE S\u00c3O JO\u00c3O DE MERITI - SAO JOAO DE MERITI 1 VARA CIVEL",
+      "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur est id est fringilla, eget interdum nisi semper. Integer quis quam eu quam condimentum molestie quis non metus. In porttitor tortor lacinia libero posuere, ac vestibulum lectus suscipit. Sed facilisis nulla et euismod posuere. Praesent ac dui scelerisque, dapibus metus id, tincidunt mi. Mauris vel vestibulum neque. Donec leo mi, fermentum in mauris sit amet, euismod pellentesque justo. Phasellus elementum, tellus vitae finibus venenatis, velit mauris auctor dui, sit amet dignissim sem mauris non neque. Duis accumsan augue porta aliquet sollicitudin. Donec sem nisl, elementum sit amet magna eu, placerat pretium arcu. Donec orci mi, iaculis sit amet sapien vitae, tempus faucibus magna. Morbi quis blandit tellus, eget sollicitudin enim. Nullam eget consectetur turpis. Maecenas ut diam non urna tristique cursus. Aliquam erat volutpat. Phasellus ac pulvinar nisl, eget maximus nisl.",
+      "numero_processo": "00000018520188190054",
+      "detalhe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "link": "http://www4.tjsp.jus.br/consultaProcessoWebV2/consultaProc.do?v=2&FLAGNOME=&back=1&tipoConsulta=publica&numProcesso=20180540000010",
+      "tipoDocumento": "23",
+      "nomeClasse": "Carta Precat\u00f3ria C\u00edvel",
+      "codigoClasse": "261",
+      "numeroComunicacao": 1,
+      "ativo": true,
+      "hash": "eXxDnJOQmZNlfVhWhy9dmrRkWV9dlr",
+      "datadisponibilizacao": "01/01/2021",
+      "meiocompleto": "Plataforma Nacional de Editais",
+      "numeroprocessocommascara": "0000001-85.2018.8.19.0054",
+      "destinatarios": "RENATA CHAVES",
+      "destinatarioadvogados": [
+        {
+          "id": 166273,
+          "comunicacao_id": 217814,
+          "advogado_id": 62940,
+          "created_at": "2020-12-17 19:53:05",
+          "updated_at": "2020-12-17 19:53:05",
+          "advogado": {
+            "id": 62940,
+            "nome": "RAFAEL SGANZERLA DURAND",
+            "numero_oab": "3594",
+            "uf_oab": "SP"
+          }
+        }
+      ]
+    }
+  ]
+}

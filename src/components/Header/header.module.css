@@ -1,0 +1,10 @@
+.header {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 68rem;
+  height: 3rem;
+  right: calc(50% - 82rem / 2);
+  top: 4.5rem;
+}

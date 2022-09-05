@@ -1,0 +1,76 @@
+.sectionSearch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 80rem;
+  height: 3rem;
+  left: calc(50% - 80rem / 2);
+  top: 9.5rem;
+}
+
+.processNumber {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding-left: 0.5rem;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin: 1rem 0.5rem 1rem;
+}
+
+.selectCourt {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding-left: 0.5rem;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin: 1rem 0.5rem 1rem;
+}
+
+.processNumber input {
+  background: var(--gray-100);
+  border: 0;
+  height: 2.5rem;
+  border-radius: 4px;
+  color: var(--gray-900);
+  line-height: 1.4;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 0.5rem;
+  padding-left: 0.5rem;
+  text-decoration: none;
+}
+
+.selectCourtSection {
+  background: var(--gray-100);
+  border: 0;
+  height: 2.5rem;
+  border-radius: 4px;
+  color: var(--gray-900);
+  line-height: 1.4;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.search {
+  align-self: center;
+  width: 6.25rem;
+  height: 2.5rem;
+  border-radius: 4px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  border: 0;
+  margin-top: 2rem;
+  cursor: pointer;
+  background: var(--green-500);
+  color: var(--gray-100);
+  transition: background-color 0.1s;
+}
+
+.search:hover {
+  background: var(--green-300);
+}
