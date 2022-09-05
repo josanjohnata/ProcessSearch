@@ -1,5 +1,5 @@
-import Header from "../Header/Header";
-import Search from "../Search/Search";
+import Header from "../../components/Header/Header";
+import Search from "../../components/Search/Search";
 function Home() {
   return (
     <>

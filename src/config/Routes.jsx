@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 
-import SearchResults from "../components/SearchResults/SearchResults";
-import Home from "../components/Home/Home";
+import SearchResults from "../pages/SearchResults/SearchResults";
+import Home from "../pages/Home/Home";
 
 const root = () => (
   <Routes>
